@@ -14,8 +14,18 @@ soil_moisture=100
 soil_moisture=101
 print(101 > 100)
 
-Name="Luka"
-Name2="Lazare"
-Surname="Vekua"
-Surname2="Zarqua"
-print(Name == Name2 or Surname == Surname2)
+Name=True
+Name2=False
+print(True or False)
+
+Name=False
+Name2=False
+print(False or False)
+
+Name=False
+Name2=True
+print(False or True)
+
+Name=True
+Name2=True
+print(True or True)
