@@ -1,0 +1,16 @@
+h1 {color:blue;}
+
+li {color:rgb(0, 0, 0);}
+
+h2 {color:rgb(29, 0, 245);}
+
+
+
+body {
+background: rgb(168, 237, 156) url("img_tree.gif") no-repeat fixed center;
+}
+
+button {
+background-color: rgb(0, 121, 12);
+}
+
